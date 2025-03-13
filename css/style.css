@@ -138,5 +138,9 @@ a span{
 width: 80%;
 
 }
+.alert{
+font-size: small;
+width: 40% !important;
+}
 
 }
